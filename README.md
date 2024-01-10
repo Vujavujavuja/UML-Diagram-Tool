@@ -1,5 +1,6 @@
-## <span style="color:red">💯💯**Nemanja Vujić 63/21RN💯💯**</span>
-## <span style="color:blue">💢💢**Dušan Jevtić 92/23RN💢💢**</span>
+# Autori
+## <span style="color:red">**Nemanja Vujić **</span>
+## <span style="color:blue">**Dušan Jevtić **</span>
 
 Informacije u vezi programa:
 - Pomeranje po radnoj površini se ostvaruje klikom na dugme "Select item" (7. dugme od vrha) i povlačenjem pomoću desnog klika miša po površini.
