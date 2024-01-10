@@ -1,6 +1,6 @@
 # Autori
-## <span style="color:red">**Nemanja Vujić **</span>
-## <span style="color:blue">**Dušan Jevtić **</span>
+## <span style="color:red">Nemanja Vujić</span>
+## <span style="color:blue">Dušan Jevtić</span>
 
 Informacije u vezi programa:
 - Pomeranje po radnoj površini se ostvaruje klikom na dugme "Select item" (7. dugme od vrha) i povlačenjem pomoću desnog klika miša po površini.
